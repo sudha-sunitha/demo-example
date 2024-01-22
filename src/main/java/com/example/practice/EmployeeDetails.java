@@ -14,6 +14,9 @@ public class EmployeeDetails {
     private int age;
 
     public EmployeeDetails() {
+
+
+
     }
 
     public EmployeeDetails(String name, double salary, int age) {
