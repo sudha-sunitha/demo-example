@@ -16,12 +16,13 @@ public class EmployeeDetails {
     public EmployeeDetails() {
     }
 
-    /*public EmployeeDetails(String name, double salary, int age) {
+    public EmployeeDetails(String name, double salary, int age) {
         this.name = name;
         this.monthlySalary = salary;
         this.age = age;
+
     }
-*/
+
     /**
      * @return the name
      */
