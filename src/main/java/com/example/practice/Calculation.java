@@ -5,7 +5,7 @@ import java.util.StringTokenizer;
 public class Calculation {
 	 //method that returns maximum number  
     public static int findMax(int arr[]){
-        System.out.println("Hhello");
+        System.out.println("Hhello--HI");
         int max=arr[0];
         for(int i=1;i<arr.length;i++){  
             if(max<arr[i])  
