@@ -15,8 +15,8 @@ import java.util.List;
 @CrossOrigin(origins = "*")
 @RestController
 public class TestController {
-  /*  @Autowired
-    EmployeeDetails employee;*/
+    @Autowired
+    EmployeeDetails employee;
 
 
     /*@CrossOrigin(origins = "*")

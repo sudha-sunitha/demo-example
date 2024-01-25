@@ -20,6 +20,7 @@ class Product{
 }  
 public class CollectorsExample {  
     public static void main(String[] args) {  
+        System.out.println("inside main");
         List<Product> productsList = new ArrayList<Product>();  
         //Adding Products  
         productsList.add(new Product(1,"HP Laptop",25000f));  
